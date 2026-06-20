@@ -121,6 +121,38 @@ The simulation produces several consistent insights:
 These findings highlight the importance of explicitly modelling network formation mechanisms when evaluating diffusion processes in digitally mediated environments.
 
 ---
+## Selected Results
+
+### Emergent Network Structure
+
+The simulation generates a heterogeneous contact network in which highly connected hub users emerge naturally through popularity-driven matching dynamics. These hubs act as bridges between otherwise clustered communities and play a disproportionate role in diffusion processes.
+
+![Contact Network](figures/contact_network_hubs.png)
+
+---
+
+### STI Diffusion Dynamics
+
+Disease transmission is simulated using a multi-pathogen SEIS framework operating on the dynamically evolving contact network.
+
+![STI Dynamics](figures/sti_compartment_dynamics.png)
+
+---
+
+### Degree Distribution Diagnostics
+
+The resulting network exhibits degree heterogeneity and concentration patterns consistent with the emergence of hub users.
+
+![Degree Diagnostics](figures/degree_distribution_diagnostics.png)
+
+---
+
+### Scenario Analysis
+
+Counterfactual experiments compare random mixing, assortative matching, hub formation, and combined mechanisms.
+
+![Scenario Comparison](figures/scenario_comparison.png)
+---
 
 ## Skills Demonstrated
 
