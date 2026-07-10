@@ -11,7 +11,7 @@ These structural differences matter because diffusion processes—whether inform
 
 Using approximately 60,000 OKCupid user profiles, this project develops an agent-based model that combines empirically calibrated network formation mechanisms with a multi-pathogen epidemiological simulation, enabling the analysis of how platform-driven network structures influence diffusion outcomes.
 
-📄 [Read the Full Report](report/project_report.pdf)
+📄 [Read the Full Report](report/simulation_final_report.pdf)
 
 ### Authors:
 - *Cecilia lo Cicero*: (https://github.com/ceciliaalocicero)
