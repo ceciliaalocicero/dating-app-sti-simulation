@@ -7,7 +7,7 @@ Online dating platforms do more than expand the pool of potential partners—the
 These structural differences matter because diffusion processes—whether information, behaviors, or infectious diseases—depend not only on individual characteristics but also on the architecture of the network through which they spread. Features such as highly connected "hub" users and clustered communities can significantly alter transmission dynamics relative to randomly mixed populations.
 
 > **Research Question:**  
-> How do assortative matching and popularity concentration (hub formation), calibrated from real dating-app behaviour, influence diffusion dynamics within an agent-based network simulation?
+> *How do assortative matching and popularity concentration (hub formation), calibrated from real dating-app behaviour, influence diffusion dynamics within an agent-based network simulation?*
 
 Using approximately 60,000 OKCupid user profiles, this project develops an agent-based model that combines empirically calibrated network formation mechanisms with a multi-pathogen epidemiological simulation, enabling the analysis of how platform-driven network structures influence diffusion outcomes.
 
