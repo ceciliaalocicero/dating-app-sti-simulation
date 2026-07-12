@@ -17,7 +17,7 @@ Using approximately 60,000 OKCupid user profiles, this project develops an agent
 - *Cecilia lo Cicero*: (https://github.com/ceciliaalocicero)
 - *Alissa Sharuda*: (https://github.com/jamaisisolee)
 - *Sara Pulidori*: (https://github.com/spulidori)
-- *Anna Ciparelli* (https://github.com/annaciapparelli)
+- *Anna Ciapparelli* (https://github.com/annaciapparelli)
 ---
 
 ## Motivation
